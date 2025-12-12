@@ -32,7 +32,7 @@ const Header = () => {
         whileInView={{ y: 0, opacity: 1 }}
         transition={{ duration: 0.8, delay: 0.5 }}
       >
-        frontend web developer based in Chennai
+        Frontend web developer based in Chennai
       </motion.h1>
       <motion.p
         className="max-w-2xl mx-auto "
@@ -40,10 +40,10 @@ const Header = () => {
         whileInView={{ opacity: 1 }}
         transition={{ duration: 0.6, delay: 0.7 }}
       >
-        I am Frontend Developer with 3 years of experience at TCS, specializing
-        in building responsive and user-friendly web applications using modern
-        technologies like React.js, JavaScript, Tailwind CSS,SCSS,Redux and
-        HTML/CSS
+        I am Frontend Developer with 3.5+ years of experience at TCS,
+        specializing in building responsive and user-friendly web applications
+        using modern technologies like React.js, JavaScript,Tailwind
+        CSS,Typescript,Redux and HTML/CSS.
       </motion.p>
       <div className="flex flex-col sm:flex-row items-center gap-4 mt-4">
         <motion.a
@@ -65,8 +65,8 @@ const Header = () => {
           initial={{ y: 30, opacity: 0 }}
           whileInView={{ y: 0, opacity: 1 }}
           transition={{ duration: 0.6, delay: 1 }}
-          href="/Jeeva_Resume.pdf"
-          download="Jeeva_Resume.pdf"
+          href="/Jeeva_N_Frontend_Developer_Resume.pdf"
+          download="Jeeva_N_Frontend_Developer_Resume.pdf"
           className="px-10 py-3 border rounded-full border-gray-500 flex items-center gap-2 "
         >
           My Resume

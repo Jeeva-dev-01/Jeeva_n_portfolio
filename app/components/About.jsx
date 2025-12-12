@@ -53,10 +53,11 @@ const About = () => {
           transition={{ duration: 0.6, delay: 0.8 }}
         >
           <p className="mb-8 max-w-2xl">
-            Passionate about building responsive, high-performance web
-            applications that deliver excellent user experiences. Skilled in
-            React.js, JavaScript (ES6+), TypeScript, SASS, and Tailwind CSS,
-            creating clean, maintainable, and scalable UI components
+            Frontend Developer with 3.5+ years of experience delivering
+            high-performance, responsive, and user-focused web applications.
+            Skilled in React.js, TypeScript, and modern UI frameworks, with a
+            strong emphasis on clean code, scalable component architectures, and
+            creating seamless digital experiences that drive business value.
           </p>
           <motion.ul
             className="grid grid-cols-1 sm:grid-cols-3 gap-6 max-w-2xl"

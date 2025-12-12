@@ -22,7 +22,7 @@ const Project = () => {
     >
       <h1 className="text-center mb-3 text-xl">Key Project</h1>
       <h3 className="text-center text-5xl mb-10">
-        Sainsbury’s E-commerce Platform
+        Sainsbury’s Retail Web Platform
       </h3>
       <p className="text-center text-xl mb-8 mt-5 mx-auto max-w-2xl">
         Contributed to the enhancement of Sainsbury’s customer-facing e-commerce
